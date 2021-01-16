@@ -8,3 +8,9 @@ please review + rate jenny's user test [here](http://luizadale.com/jenny)
 <br />
 <br />
 ![performance](images/jenny2.png)
+<br />
+part of 8ball tv's new years eve 2021 programming
+<br />
+![8ball](images/insta1.png)
+<br />
+![8ball](images/insta2.png)
